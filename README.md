@@ -3,7 +3,7 @@
 1. Download Visual Studio Code from https://code.visualstudio.com
 2. Open Visual Studio Code
 3. Click "Clone Git Repository"
-4. Copy this url https://github.com/Griceus/Cypress.git and press Enter
+4. Copy this url https://github.com/Griceus/Cypress_Project.git and press Enter
 5. Select Location to save repository
 6. Wait the Clone Process
 7. Click Open
