@@ -1,0 +1,13 @@
+{
+    "waitForFileChanges":true,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "charts": true,
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "reportDir": "cypress/reports"
+    },
+    "viewportWidth": 2000,
+    "viewportHeight": 1200
+}
